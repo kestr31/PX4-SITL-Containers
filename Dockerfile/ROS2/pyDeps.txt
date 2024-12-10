@@ -13,3 +13,5 @@ setuptools==58.2
 Shimmy
 stable_baselines3
 torch
+tornado
+simplejpeg
